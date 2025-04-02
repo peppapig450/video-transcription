@@ -2,7 +2,7 @@
 authors = [
   {name = "peppapig450", email = "peppapig450@pm.me"},
 ]
-dependencies = ["whisperx (>=3.3.1,<4.0.0)"]
+dependencies = ["whisperx (>=3.3.1,<4.0.0)", "pyannote-audio (>=3.3.2,<4.0.0)", "python-dotenv (>=1.1.0,<2.0.0)"]
 description = ""
 name = "videotranscripts"
 readme = "README.md"
