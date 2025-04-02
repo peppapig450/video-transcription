@@ -179,3 +179,6 @@ cython_debug/
 *.srt
 *.txt
 models/
+*.mp4
+*.webm
+*.mov
