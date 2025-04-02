@@ -175,3 +175,7 @@ cython_debug/
 
 # Ignore dotenv .env
 .env
+
+*.srt
+*.txt
+models/
